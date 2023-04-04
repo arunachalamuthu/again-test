@@ -7,7 +7,7 @@ router.get('/',async(req,res)=>{
         res.json({
 
             status:200,
-            message:"get data has succesfully"
+            message:"vanagam"
         })
     } catch (error) {
         console.log(error);
